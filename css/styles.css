@@ -12,7 +12,7 @@ body {
   color: var(--clr-black);
   line-height: 1.5;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
-  background-image: url("./images/coffee.jpeg");
+  background-image: url("../images/coffee.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
